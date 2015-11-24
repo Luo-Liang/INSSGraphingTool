@@ -11,7 +11,7 @@ Given a directory with raw data,
 
 Each file contains many lines. We'd like to extract one sample per line from each file.
 
-![File Structure](https://raw.github.com/Luo-Liang/INSSGraphingTool/master/Figures/RawData.PNG)
+![File Structure](https://raw.github.com/Luo-Liang/INSSGraphingTool/master/Figures/RawData.png)
 
 Hist2CDF.exe aggregates CDF by each file, then creates a chart with different CDFs from all files.
 
