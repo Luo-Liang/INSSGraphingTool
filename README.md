@@ -17,6 +17,8 @@ Hist2CDF.exe aggregates CDF by each file, then creates a chart with different CD
 
 ![Result](https://raw.github.com/Luo-Liang/INSSGraphingTool/master/Figures/Result.png)
 
-Hist2CDF.exe **Directory** **Stepping** **Minimum** **Maximum**
+Hist2CDF.exe **Directory** **Stepping** **Minimum** **GroupingRule**
+
+**GroupingRule** allows partition all files into several groups, and one graph is plotted for each group.
 
 You can down sampling by setting stepping to a larger value.
